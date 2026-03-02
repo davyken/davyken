@@ -70,9 +70,8 @@ I'm a **Fullstack Developer** passionate about crafting clean, user-focused web 
 
 | 🏗️ Project | 📋 Description | 🔧 Stack | 🌐 Live |
 |---|---|---|---|
-| [**Project One**](https://github.com/davyken/project-one) | Brief description of the problem it solves | React, Node.js, MongoDB | [🔗 Demo](https://your-link.vercel.app) |
-| [**Project Two**](https://github.com/davyken/project-two) | Brief description of the problem it solves | Next.js, NestJS, PostgreSQL | [🔗 Demo](https://your-link.vercel.app) |
-| [**Project Three**](https://github.com/davyken/project-three) | Brief description of the problem it solves | React, Firebase, Supabase | [🔗 Demo](https://your-link.vercel.app) |
+| [**Project One**](https://github.com/davyken/Chatdav) | Brief description of the problem it solves | React, Node.js, MongoDB | 
+| [**Project Two**](https://github.com/davyken/recipesapp) | Brief description of the problem it solves | Next.js, NestJS, PostgreSQL | 
 
 ---
 
