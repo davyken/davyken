@@ -65,14 +65,6 @@ I'm a **Fullstack Developer** passionate about crafting clean, user-focused web 
 </div>
 
 ---
-
-## 🚀 Featured Projects
-
-| 🏗️ Project | 📋 Description | 🔧 Stack | 🌐 Live |
-|---|---|---|---|
-| [**Project One**](https://github.com/davyken/Chatdav) | Brief description of the problem it solves | React, Node.js, MongoDB | 
-| [**Project Two**](https://github.com/davyken/recipesapp) | Brief description of the problem it solves | Next.js, NestJS, PostgreSQL | 
-
 ---
 
 ## 📊 GitHub Stats
