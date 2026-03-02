@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=David%20Ken&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Web%20Developer&descAlignY=60&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Davy%20Kennang&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Web%20Developer&descAlignY=60&descColor=ffffff" />
 
 </div>
 
@@ -98,8 +98,8 @@ I'm a **Fullstack Developer** passionate about crafting clean, user-focused web 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davykennang552@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davy-kennang-788047298/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-new-portfolio-7sa5.vercel.app/)
 
 **💼 Available for freelance work and full-time remote roles**
 
