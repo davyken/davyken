@@ -69,7 +69,7 @@ I am a **Fullstack Developer** based in Yaoundé, Cameroon, specializing in buil
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🌐 [My Portfolio](https://github.com/davyken/My-new-portfolio) — Personal Portfolio Website
 > A React-based portfolio showcasing my work as a fullstack developer with responsive design, dark/light mode, and contact form integration.
