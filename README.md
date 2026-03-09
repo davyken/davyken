@@ -1,7 +1,5 @@
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d4ff&height=200&section=header&text=Davy%20Kennang&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Web%20%26%20Mobile%20Developer&descAlignY=60&descColor=ffffff&descSize=22)
-
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=500&color=00D4FF&background=0D1117&center=true&vCenter=true&width=900&height=120&lines=Hi+%F0%9F%91%8B+I'm+Davy+Kennang;Fullstack+Web+%26+Mobile+Developer" alt="Davy Kennang" />
 </div>
 
 <div align="center">
